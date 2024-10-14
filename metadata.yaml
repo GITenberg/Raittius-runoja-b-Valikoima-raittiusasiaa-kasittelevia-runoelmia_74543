@@ -1,0 +1,25 @@
+_repo: Raittius-runoja-b-Valikoima-raittiusasiaa-kasittelevia-runoelmia_74543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ramstedt, G. J.
+    gutenberg_agent_id: '57540'
+    url: http://www.gutenberg.org/2009/agents/57540
+description: ''
+gutenberg_issued: '2024-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74543'
+language: fi
+pgterms:marc905: 20241002120534ramstedt
+pgterms:marc906: '1894'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bRaittiuden Ystävät, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Raittius-runoja : $b Valikoima raittiusasiaa käsitteleviä runoelmia'
+url: http://www.gutenberg.org/ebooks/74543
