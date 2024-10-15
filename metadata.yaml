@@ -1,11 +1,16 @@
 _repo: Raittius-runoja-b-Valikoima-raittiusasiaa-kasittelevia-runoelmia_74543
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ramstedt, G. J.
     gutenberg_agent_id: '57540'
     url: http://www.gutenberg.org/2009/agents/57540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74543#Raittius-runoja-b-Valikoima-raittiusasiaa-kasittelevia-runoelmia
 gutenberg_issued: '2024-10-08'
 gutenberg_type: Text
 identifiers:
